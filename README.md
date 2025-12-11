@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Banner principal -->
-  <img src="https://github.com/MercheME/MercheME/blob/main/banner2-woman-punk.png?raw=1" alt="Banner punk purple" width="100%" />
-  
   <!-- Wave oscura -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:8A2BE2,100:9370DB&height=120&section=header&text=&fontSize=0" width="100%"/>
   
