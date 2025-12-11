@@ -21,7 +21,6 @@
 ## ✦ Sobre mí
 
 Desarrolladora Full Stack con preferencia por el **Front-end**, el **diseño limpio**, las **interfaces intuitivas** y los **proyectos con personalidad**.  
-Trabajo con tecnologías modernas y mantengo una estética definida: **morados, vibes punk y diseño minimalista**.
 
 **Información rápida:**
 - **Rol:** Full Stack Developer  
