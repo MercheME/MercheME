@@ -1,7 +1,7 @@
 <h1 align="center">➿ Hola, soy Merche ➿ </h1>
 
 <p align="center">
-  <img src="https://github.com/MercheME/MercheME/blob/main/Mujer punk con símbolos de código.png?raw=1" alt="Banner punk purple" width="100%" />
+  <img src="https://github.com/MercheME/MercheME/blob/main/banner-woman-punk.png?raw=1" alt="Banner punk purple" width="100%" />
 </p>
 
 <p align="center">
