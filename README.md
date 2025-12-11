@@ -1,7 +1,7 @@
-<h1 align="center">✨ Hola, soy Merche ✨</h1>
+<h1 align="center">➿ Hola, soy Merche ➿ </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77DFE&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack;Apasionada+por+el+Frontend;Creativa+%26+curiosa;Amante+del+aprendizaje+constante" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C527F5&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack;Apasionada+por+el+Frontend;Creativa+%26+curiosa;Amante+del+aprendizaje+constante" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌸 Sobre Mí
+## Sobre mí
 
 **nombre:** Mercedes Moreno  
 **rol:** Desarrolladora Full Stack  
@@ -27,7 +27,7 @@
 
 ---
 
-## 💭 Un poco sobre mí...
+## Datos curiosos
 
 💡 Me apasiona transformar ideas en aplicaciones funcionales y hermosas  
 🎨 Me interesa el diseño, la usabilidad y la experiencia de usuario  
@@ -38,9 +38,9 @@
 
 ---
 
-## 🎀 Tech Stack
+## Tech Stack
 
-### 💜 Frontend
+### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 💖 Backend
+### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-### 🩷 Tools & Design
+### Tools & Design
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -68,30 +68,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=MercheME&show_icons=true&theme=rose_pine"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercheME&layout=compact&theme=rose_pine"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MercheME&theme=rose_pine&hide_border=false" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/MercheME/MercheME/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-(Lo configuraremos si quieres)
 
 ---
 
@@ -108,9 +90,5 @@
 
 ---
 
-<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
-
-<p align="center">
-  "El código es lógica, pero crear es magia."
-</p>
+<h3 align="center"> Gracias por visitar mi perfil 😎</h3>
 
