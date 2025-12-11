@@ -1,88 +1,116 @@
-<!-- Banner o imagen principal -->
-<p align="center">
-  <img src="https://i.imgur.com/1ZQZ1Zm.gif" alt="banner" width="80%">
-</p>
-
-<h1 align="center">Hola, soy Merche 👋</h1>
+<h1 align="center">✨ Hola, soy Merche ✨</h1>
 
 <p align="center">
-  Desarrolladora Full Stack • Front-end & Back-end  
-  <br>
-  Apasionada por crear experiencias digitales funcionales, limpias y modernas.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77DFE&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack;Apasionada+por+el+Frontend;Creativa+%26+curiosa;Amante+del+aprendizaje+constante" />
 </p>
-
----
-
-## 🌟 Sobre mí
-
-Soy desarrolladora web con experiencia en Java, JavaScript, PHP y frameworks modernos como Laravel, Angular y React.  
-Me gusta crear aplicaciones que realmente resuelvan problemas y que tengan una interfaz agradable y usable.
-
-Actualmente:
-- 🌱 Aprendiendo más sobre Node.js y arquitectura full-stack  
-- 🚀 Construyendo proyectos personales que combinen frontend + backend  
-- 💡 Explorando diseño UI/UX  
-
----
-
-## 🔧 Tecnologías
-
-<p align="center">
-  
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-</p>
-
----
-
-## 🚀 Proyectos destacados
-
-### 🗺️ **Diarios Nómadas**
-Aplicación web construida en Laravel que unifica fotos, notas y rutas de viaje en un diario interactivo.  
-Permite visualizar mapas, crear entradas personalizadas y compartir recuerdos con amigos.
-
-<p align="center">
-  <img src="https://i.imgur.com/7LQ2saz.gif" alt="demo" width="70%">
-</p>
-
-👉 **Repositorio:**  
-https://github.com/MercheME/diario-nomada-limpio
-
----
-
-## 📈 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MercheME&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercheME&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
-## 📫 Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mercedes-moreno-bb16ab1b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:merche.moreno.exposito@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## 🌸 Sobre Mí
+
+**nombre:** Mercedes Moreno  
+**rol:** Desarrolladora Full Stack  
+**especialización:** Front-end (Angular, React) & Back-end (Laravel, Node.js)  
+**ubicación:** España 🇪🇸  
+**contacto:**  
+- correo: **merche.moreno.exposito@gmail.com**  
+- LinkedIn: **/mercedes-moreno-bb16ab1b4**  
+
+---
+
+## 💭 Un poco sobre mí...
+
+💡 Me apasiona transformar ideas en aplicaciones funcionales y hermosas  
+🎨 Me interesa el diseño, la usabilidad y la experiencia de usuario  
+🎓 Siempre aprendiendo nuevas tecnologías  
+🌱 Actualmente explorando Node.js + arquitectura full-stack  
+💬 Pregúntame sobre Angular, React, TypeScript, Laravel  
+📚 Dato curioso: me encanta la música, los libros y viajar  
+
+---
+
+## 🎀 Tech Stack
+
+### 💜 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### 💖 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### 🩷 Tools & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://i.imgur.com/e1I3EyZ.gif" width="200px"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MercheME&show_icons=true&theme=rose_pine"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercheME&layout=compact&theme=rose_pine"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MercheME&theme=rose_pine&hide_border=false" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/MercheME/MercheME/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+(Lo configuraremos si quieres)
+
+---
+
+## 💌 Conectemos
+
+<p align="center">
+  <a href="mailto:merche.moreno.exposito@gmail.com">
+    <img src="https://img.shields.io/badge/Email-f06292?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mercedes-moreno-bb16ab1b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-9575cd?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+<h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
+
+<p align="center">
+  "El código es lógica, pero crear es magia."
 </p>
 
