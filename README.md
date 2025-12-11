@@ -1,7 +1,11 @@
 <h1 align="center">➿ Hola, soy Merche ➿ </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C527F5&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack;Apasionada+por+el+Frontend;Creativa+%26+curiosa;Amante+del+aprendizaje+constante" />
+  <img src="https://github.com/MercheME/MercheME/blob/main/banner-punk-purple.png?raw=1" alt="Banner punk purple" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=D04FF7&center=true&vCenter=true&width=435&lines=Desarrolladora+Full+Stack;Apasionada+por+el+Frontend;Creativa+%26+curiosa;Amante+del+aprendizaje+constante" />
 </p>
 
 <p align="center">
