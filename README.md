@@ -24,7 +24,7 @@ Desarrolladora Full Stack con preferencia por el **Front-end**, el **diseño lim
 
 **Información rápida:**
 - **Rol:** Full Stack Developer  
-- **Especialización:** Angular, React, TypeScript, Laravel, Node.js  
+- **Especialización:** Angular, TypeScript, Laravel, PHP  
 - **Ubicación:** España 🇪🇸  
 - **Contacto:**  
   - Email: **merche.moreno.exposito@gmail.com**  
