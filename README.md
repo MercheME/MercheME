@@ -66,10 +66,8 @@ Trabajo con tecnologías modernas y mantengo una estética definida: **morados, 
   <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode&theme=dark" />
 </p>
 
----
-
+ ## ✦ Conectemos
 <div align="center">
-  ## ✦ Conectemos
   <a href="mailto:merche.moreno.exposito@gmail.com">
     <img src="https://img.shields.io/badge/Email-BF40BF?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
