@@ -9,8 +9,6 @@
 # ✦ Mercedes ✦  
 ### Full Stack Developer · Diseño UX/UI ·  
 
----
-
 <!-- Contact badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mercedes-moreno-bb16ab1b4/">
@@ -22,8 +20,6 @@
 </p>
 
 </div>
-
----
 
 ## ✦ Sobre mí
 
@@ -38,8 +34,6 @@ Trabajo con tecnologías modernas y mantengo una estética definida: **morados, 
   - Email: **merche.moreno.exposito@gmail.com**  
   - LinkedIn: **/mercedes-moreno-bb16ab1b4**
 
----
-
 ## ✦ Datos curiosos
 
 - Me encanta transformar ideas en experiencias web  
@@ -49,19 +43,13 @@ Trabajo con tecnologías modernas y mantengo una estética definida: **morados, 
 - Las tecnologías que más disfruto: **PHP, Laravel, Tailwind**  
 - 🎧 Música, libros y viajes siempre presentes en mi vida  
 
----
-
 ## ✦ Actualmente trabajando en…
 
 - Aprendiendo **Computer Vision e IA aplicada al Front/Back**  
 - Perfeccionando **Laravel, Angular, Tailwind**  
 - Mejorando patrones de arquitectura y buenas prácticas
 
----
-
 ## ✦ Tech Stack
-
----
 
 ### Frontend
 <p align="left">
@@ -90,8 +78,6 @@ Trabajo con tecnologías modernas y mantengo una estética definida: **morados, 
   </a>
 </div>
 
----
-
 <!-- Divider --> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -99,8 +85,6 @@ Trabajo con tecnologías modernas y mantengo una estética definida: **morados, 
   <h3>Gracias por visitar mi perfil 🤟🏼</h3>
   <img src="https://komarev.com/ghpvc/?username=MercheME&color=6A0DAD&style=for-the-badge&label=Visitantes"/> 
 </div> 
-
----
 
 <!-- Footer --> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=100&section=footer" width="100%"/>
