@@ -8,7 +8,7 @@
   
   <!-- Contact badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/mercedes-moreno-bb16ab1b4/">
+    <a href="https://www.linkedin.com/in/mercedes-moreno-exp/">
       <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:merche.moreno.exposito@gmail.com">
@@ -69,7 +69,7 @@ Desarrolladora Full Stack con preferencia por el **Front-end**, el **diseño lim
     <img src="https://img.shields.io/badge/Email-BF40BF?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/mercedes-moreno-bb16ab1b4/">
+  <a href="https://www.linkedin.com/in/mercedes-moreno-exp/">
     <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
